@@ -58,8 +58,8 @@ local Translations = {
         ["view_house"] = "Visualizar casa",
         ["ring_door"] = "Tocar campainha",
         ["exit_door"] = "Sair da propriedade",
-        ["open_stash"] = "Abrir esconderijo",
-        ["stash"] = "Esconderijo",
+        ["open_stash"] = "Abrir Baú",
+        ["stash"] = "Baú",
         ["change_outfit"] = "Trocar traje",
         ["outfits"] = "Trajes",
         ["change_character"] = "Trocar personagem",
@@ -68,7 +68,7 @@ local Translations = {
         ["lock_door_police"] = "Trancar porta"
     },
     target = {
-        ["open_stash"] = "[E] Abrir esconderijo",
+        ["open_stash"] = "[E] Abrir Baú",
         ["outfits"] = "[E] Trocar trajes",
         ["change_character"] = "[E] Trocar personagem",
     },
